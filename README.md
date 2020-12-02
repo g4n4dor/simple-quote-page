@@ -1,2 +1,2 @@
 # simple-quote-page
-A simple quote repo for a Codeberry lesson.
+A simple quote page
