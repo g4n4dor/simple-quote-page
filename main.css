@@ -5,3 +5,10 @@ body {
   background-size: cover;
   color: #333;
 }
+
+.wrapper {
+  padding-top: 4rem;
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+}
